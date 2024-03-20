@@ -2,6 +2,8 @@
 
 **Tema:** Sistema de Gerenciamento de Escola
 
+**Nome:** Heloísa Fernanda Ferreira Jorge
+
 Para a idealização do projeto, foi realizado um conjunto de histórias para determinar os requisitos mínimos e os requisitos adicionais. Essas histórias tiveram como inspiração as diversas atividades que estão presentes em escolas reais para a formação do modelo entidade-relacionamento fictício a seguir.
 
 ##	Requisitos Mínimos
